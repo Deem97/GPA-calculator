@@ -10,6 +10,7 @@ object GPA{
                 case "B-" => return 2.75;
                 case "C+" => return 2.25;
                 case "C"  => return 2.00; 
+                case "E" => return 1.50;
             }
     }
 
